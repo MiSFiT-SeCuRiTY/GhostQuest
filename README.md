@@ -6,7 +6,7 @@ A concise, step-by-step guide showing how to **complete Discord quests without o
 > This does not works in browser for quests which require you to play a game! Use the [desktop app](https://discord.com/download) to complete those.
 
 # 👻 HOW TO USE THE SCRIPT ?
-- Allow Inspect Permissions for Github.
+- Allow Inspect Permissions for Discord.
 - Run `%appdata%\discord` and Open `settings.json` file in notepad or any other text editor.
 - Put a `Comma , ` where code is finishing in the last line and paste
 ```"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,```
