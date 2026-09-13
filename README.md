@@ -10,6 +10,7 @@ A concise, step-by-step guide showing how to **complete Discord quests without o
 - Run %appdata%\discord and Open `settings.json` file in notepad.
 - Put a `Comma , ` where code is finishing in the last line and paste
 ```"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,```
+and save the file.
 - Accept a quest under the Quests tab.
 - Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> to open DevTools.
 - Go to the `Console` tab.
