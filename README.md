@@ -8,8 +8,24 @@ A concise, step-by-step guide showing how to **complete Discord quests without o
 # 👻 HOW TO USE THE SCRIPT ?
 - Allow Inspect Permissions for Discord.
 - Run `%appdata%\discord` and Open `settings.json` file in notepad or any other text editor.
-- Put a `Comma , ` where code is finishing in the last line and paste
-```"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,```
+- Put this code in settings.json file:-
+```
+{
+  "IS_MAXIMIZED": true,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 112,
+    "y": 60,
+    "width": 1284,
+    "height": 724
+  },
+  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
+  "MIN_WIDTH": 940,
+  "MIN_HEIGHT": 500,
+  "chromiumSwitches": {}
+}
+
+```
 and save the file.
 - Accept a quest under the Quests tab.
 - Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd> to open DevTools.
