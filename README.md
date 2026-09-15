@@ -1,6 +1,26 @@
 # 😈 GhostQuest
-<img width="1344" height="768" alt="gpt-image-2_Create_a_professional_high-click-through_YouTube_thumbnail_in_16_9_1280×720_for-0" src="https://github.com/user-attachments/assets/d7fe8ccb-6ec6-4594-9e1a-dae3abc1cae7" />
 
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=ROoKss0ZZeg">
+
+<img src="https://img.youtube.com/vi/ROoKss0ZZeg/maxresdefault.jpg" width="800" alt="Watch the Video Tutorial">
+
+</a>
+
+### ▶️ Watch the Complete Tutorial
+
+Learn how to use this tool through the complete video demonstration.
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=ROoKss0ZZeg">
+<img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</div>
+
+---
 
 A concise, step-by-step guide showing how to **complete Discord quests without owning the game or watching the required video**, using safe, reproducible methods for testing, research, and automation.
 
@@ -194,37 +214,6 @@ A: No. Doing that would put you at risk because I (or someone in my account) cou
 
 ## HOW TO ALLOW PASTING IN DISCORD DEVTOOLS ? 
 <img width="800" height="749" alt="Image" src="https://github.com/user-attachments/assets/c7181725-0d6b-40b3-9abc-596ff8dbee38" />
-
-
-
-
----
-
-## 🎥 Video Tutorial
-
-<div align="center">
-
-<a href="https://www.youtube.com/watch?v=ROoKss0ZZeg">
-
-<img src="https://img.youtube.com/vi/ROoKss0ZZeg/maxresdefault.jpg" width="800" alt="Watch the Video Tutorial">
-
-</a>
-
-### ▶️ Watch the Complete Tutorial
-
-Learn how to use this tool through the complete video demonstration.
-
-<br>
-
-<a href="https://www.youtube.com/watch?v=ROoKss0ZZeg">
-<img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
-
----
-
-
 
 
 
