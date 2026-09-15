@@ -195,7 +195,37 @@ A: No. Doing that would put you at risk because I (or someone in my account) cou
 ## HOW TO ALLOW PASTING IN DISCORD DEVTOOLS ? 
 <img width="800" height="749" alt="Image" src="https://github.com/user-attachments/assets/c7181725-0d6b-40b3-9abc-596ff8dbee38" />
 
-## 🎥 VIDEO TUTORIAL 📽️
-https://github.com/user-attachments/assets/00d8e153-44c4-4cce-99db-fd2c96ede881
+
+
+
+---
+
+## 🎥 Video Tutorial
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=ROoKss0ZZeg">
+
+<img src="https://img.youtube.com/vi/ROoKss0ZZeg/maxresdefault.jpg" width="800" alt="Watch the Video Tutorial">
+
+</a>
+
+### ▶️ Watch the Complete Tutorial
+
+Learn how to use this tool through the complete video demonstration.
+
+<br>
+
+<a href="https://www.youtube.com/watch?v=ROoKss0ZZeg">
+<img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</div>
+
+---
+
+
+
+
 
 ## THANKS FOR VISTING THIS PAGE :)
